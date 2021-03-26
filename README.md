@@ -90,17 +90,16 @@ One-hot encoding or label encoding are available to be used in.
         print('Coefficient of determination: %.2f' % r2_score(self.y_test, y_pred))
 ```
 ## Example Result
-Coefficients: [0.65023172]
+**Coefficients:** [0.65023172]
 
-Mean squared error: 656.16
+**Mean squared error:** 656.16
 
-Coefficient of determination: 0.80
+**Coefficient of determination:** 0.80
 
 
-```
-6. Visualization
-```
-[![Product Name Screen Shot][product-screenshot]]
+### Visualization
+
+![lin_reg](https://user-images.githubusercontent.com/65662204/112662582-e71b4880-8e68-11eb-93cd-ad957bc14852.png)
 
 ## Contributing
 Pull requests are welcome.
@@ -123,6 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [license-url]: https://github.com/orkunkus/linear_regression/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/orkunkus
-[product-screenshot]: images/lin_reg.png
 
 
