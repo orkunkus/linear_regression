@@ -111,16 +111,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/orkunkus/missing_column_find.svg?style=for-the-badge
-[contributors-url]: https://github.com/orkunkus/missing_column_find/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/orkunkus/missing_column_find.svg?style=for-the-badge
-[forks-url]: https://github.com/orkunkus/missing_column_find/network/members
-[stars-shield]: https://img.shields.io/github/stars/orkunkus/missing_column_find.svg?style=for-the-badge
-[stars-url]: https://github.com/orkunkus/missing_column_find/stargazers
-[issues-shield]: https://img.shields.io/github/issues/orkunkus/missing_column_find.svg?style=for-the-badge
-[issues-url]: https://github.com/orkunkus/missing_column_find/issues
-[license-shield]: https://img.shields.io/github/license/orkunkus/missing_column_find.svg?style=for-the-badge
-[license-url]: https://github.com/orkunkus/missing_column_find/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/orkunkus/linear_regression.svg?style=for-the-badge
+[contributors-url]: https://github.com/orkunkus/linear_regression/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/orkunkus/linear_regression.svg?style=for-the-badge
+[forks-url]: https://github.com/orkunkus/linear_regression/network/members
+[stars-shield]: https://img.shields.io/github/stars/orkunkus/linear_regression.svg?style=for-the-badge
+[stars-url]: https://github.com/orkunkus/linear_regression/stargazers
+[issues-shield]: https://img.shields.io/github/issues/orkunkus/linear_regression.svg?style=for-the-badge
+[issues-url]: https://github.com/orkunkus/linear_regression/issues
+[license-shield]: https://img.shields.io/github/license/orkunkus/linear_regression.svg?style=for-the-badge
+[license-url]: https://github.com/orkunkus/linear_regression/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/orkunkus
 [product-screenshot]: images/lin_reg.png
